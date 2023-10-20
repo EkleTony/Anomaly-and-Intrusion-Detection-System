@@ -1,6 +1,6 @@
 # Anomaly and Intrusion Detection System (AIDS)
 
-This repository contains the code and projects implemented as part of the coursework for **CSC 7210** at Tennessee Technological University. The course provides a comprehensive exploration of traditional anomaly and intrusion detection systems, as well as the latest advancements in this dynamic field.
+This repository contains the code and projects implemented as part of the coursework for **CSC 7210**, **Fall 2023 Semester** at Tennessee Technological University. The course provides a comprehensive exploration of traditional anomaly and intrusion detection systems, as well as the latest advancements in this dynamic field.
 
 **Course Instructor:** 
 - Professor **William (Bill) Eberle**
